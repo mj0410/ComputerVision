@@ -15,8 +15,8 @@
 
 ### Model Evaluation
 
-<img src="https://github.com/mj0410/cv_classification/assets/66175878/24d4798a-9ef5-4235-a7a9-a45677cb1a44" width="400">
-<img src="https://github.com/mj0410/cv_classification/assets/66175878/e7944d78-eeb1-4320-a8a9-0f96b2f60ebb" width="400"> </br>
+<img src="https://github.com/mj0410/cv_classification/assets/66175878/24d4798a-9ef5-4235-a7a9-a45677cb1a44" width="300">
+<img src="https://github.com/mj0410/cv_classification/assets/66175878/e7944d78-eeb1-4320-a8a9-0f96b2f60ebb" width="300"> </br>
 </br>
 
 ### Model Introduction
@@ -56,8 +56,8 @@
 
 ### Model Evaluation
 
-<img src="https://github.com/mj0410/cv_classification/assets/66175878/83d141c6-1a45-4aa7-afd0-fe10df2fcf82" width="400">
-<img src="https://github.com/mj0410/cv_classification/assets/66175878/c8ad23de-278a-465c-820f-4bcfcac986ec" width="400"> </br>
+<img src="https://github.com/mj0410/cv_classification/assets/66175878/83d141c6-1a45-4aa7-afd0-fe10df2fcf82" width="300">
+<img src="https://github.com/mj0410/cv_classification/assets/66175878/c8ad23de-278a-465c-820f-4bcfcac986ec" width="300"> </br>
 </br>
 
 ### Model Introduction
