@@ -41,4 +41,4 @@
 - introduced to overcome gradient vanishing or exploding in deep neural network
 - Residual connection (skip connection)
 
-
+<img src="https://github.com/mj0410/cv_classification/assets/66175878/f359e83c-d80d-4372-9e1a-b26b10e80314">
